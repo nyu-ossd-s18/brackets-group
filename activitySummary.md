@@ -56,3 +56,9 @@ Below you'll find the issues we examined, and the commits we made to our extensi
 * [Removed node modules and modified main.js file to allow blank panel to be displayed](https://github.com/nyu-ossd-s18/Css-Refactoring-Ext/commit/0703f4dc3060a65370ead49eb27aa77a307eab80)
 
 * [Began incorporating extension into editor](https://github.com/nyu-ossd-s18/Css-Refactoring-Ext/commit/aa310f80d8513dc5541035428c4bf75cd278e3b1)
+
+2) Nathan Grimshaw
+A lot of my work was done behind the scene organizing group meet ups and working in coffee shops with Jacob towards code changes although
+he usually end up pushing the changes even though we were working together on them,. I helped him with his commits to getting the palette
+to display, the incorporating palette.js, adding color palette image, creating function in color.js, and updating index.html.
+
